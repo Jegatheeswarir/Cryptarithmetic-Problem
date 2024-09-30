@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:  JEGATHEESWARI R             </h3>
-<h3>Register Number/Staff Id:  212223230092    </h3>
+<h3>Name:     JEGATHEESWARI R         </h3>
+<h3>Register Number: 212223230092       </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -71,10 +71,8 @@ Begin<br>
       return true<br>
    return false<br>
 End<br>
-<hr>
-
-## Program:
-```py
+## PROGRAM:
+```
 from itertools import permutations
 
 def solve_cryptarithmetic():
@@ -106,12 +104,11 @@ if solution:
 else:
     print("No solution found.")
 ```
+<hr>
 <h2>Output:</h2>
 
-![alt text](<Screenshot 2024-09-28 083811.png>)
-
+![Screenshot 2024-09-26 093040](https://github.com/user-attachments/assets/37028d02-787a-4d0f-9037-a7cb2c205dcb)
 
 <hr>
-
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
